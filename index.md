@@ -2,6 +2,7 @@
 
 - [QUIP and quippy](http://libatoms.github.io/QUIP) - General-purpose library for Quantum Mechanics and Interatomic Potentials
 - [matscipy](http://libatoms.github.io/matscipy) - Python materials science tools
+- [workflow](http://libatoms.github.io/worflow) - Python toolkit for building interatomic potential creation and atomistic simulation workflows
 
 ## GitHub Repositories
 
